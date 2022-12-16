@@ -3,4 +3,4 @@
 
  Repositório criado para salvar o desenvolvimento dos exercícios propostos no curso de Python Zero - Data Expert.
 
- # Os exercícios feitos no presente repositório são todos de nível básico! Feitos exclusivamente para aprendizado.
+ Os exercícios feitos no presente repositório são todos de nível básico, feitos exclusivamente para aprendizado.
