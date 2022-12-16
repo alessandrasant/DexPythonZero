@@ -1,3 +1,6 @@
+#Exercício 3 - Faça um programa que pede para o usuário inserir um produto e salvar este produto numa lista.
+#Caso o produto já esteja na lista informe uma mensagem de erro e não cadastre o produto duplicado.
+
 listaProdutos = []
 descricaoProdutos = input('Insira um produto: ')
 listaProdutos.append(descricaoProdutos)
